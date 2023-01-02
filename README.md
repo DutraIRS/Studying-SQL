@@ -1,2 +1,2 @@
-# Studying-SQL
-Exploring SQL features
+# Studying SQL
+Exploring SQL
